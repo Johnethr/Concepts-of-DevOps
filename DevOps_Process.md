@@ -1,4 +1,4 @@
-A DevOps Workflow
+<h2>A DevOps Workflow</h2>
 
 <img src="DevOps_Process.png" alt="DevOps Workflow">
 
